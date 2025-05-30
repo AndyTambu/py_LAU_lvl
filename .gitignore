@@ -9,3 +9,4 @@ env/
 *.pyc
 env.yml
 environment.txt
+GHSL/ # Ignore the virtual environment directory because they are large and can be recreated
